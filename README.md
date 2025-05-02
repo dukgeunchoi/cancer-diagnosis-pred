@@ -1,4 +1,4 @@
-# Breast Cancer Prediction using Deep Learning
+# Cancer Diagnosis Prediction using Deep Learning
 
 A binary classification project that predicts whether a breast cancer diagnosis is **malignant (M)** or **benign (B)** using neural networks.  
 Built in Python using **TensorFlow/Keras**, this project compares the performance of deep learning models against a logistic regression baseline using the **Wisconsin Breast Cancer Dataset**.
